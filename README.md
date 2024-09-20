@@ -10,7 +10,8 @@ Additionally, I utilized local storage to persistently store the services. This 
 -first Download zip file of code from 'https://github.com/vedant8767/HealthCare'
 -extract the zip file and open init in a vscode and cd to the folder in which files are extracted then open cmd and do npm i once it completed then run npm run dev then it provide the link in which project is live
 
-
+#project is live on
+'https://health-care-ruby.vercel.app/'
 
 # React + Vite
 
